@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.ledong.middleware.cache.test.TestCache
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 0.015 sec <<< FAILURE!
+com.ledong.middleware.cache.test.TestCache.testAspect()  Time elapsed: 0.005 sec  <<< FAILURE!
+java.lang.NullPointerException
+	at com.ledong.middleware.cache.test.TestCache.testAspect(TestCache.java:17)

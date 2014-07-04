@@ -1,0 +1,804 @@
+2014-07-01 12:12:56 [INFO] - [main] Loading XML bean definitions from class path resource [applicationContext.xml]
+2014-07-01 12:12:56 [INFO] - [main] JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+2014-07-01 12:12:56 [INFO] - [main] Refreshing org.springframework.context.support.GenericApplicationContext@485fcf29: startup date [Tue Jul 01 12:12:56 GMT+08:00 2014]; root of context hierarchy
+2014-07-01 12:12:57 [INFO] - [main] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2014-07-01 12:12:57 [INFO] - [main] Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6401d98a: defining beans [org.springframework.aop.config.internalAutoProxyCreator,cachePoxy,testLeCacheAnn,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0]; root of factory hierarchy
+2014-07-01 12:12:57 [WARN] - [main] No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/Users/liaoyong/.m2/repository/net/sf/ehcache/ehcache-core/2.4.5/ehcache-core-2.4.5.jar!/ehcache-failsafe.xml
+2014-07-01 12:12:58 [INFO] - [Thread-2] Closing org.springframework.context.support.GenericApplicationContext@485fcf29: startup date [Tue Jul 01 12:12:56 GMT+08:00 2014]; root of context hierarchy
+2014-07-01 12:12:58 [INFO] - [Thread-2] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@6401d98a: defining beans [org.springframework.aop.config.internalAutoProxyCreator,cachePoxy,testLeCacheAnn,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0]; root of factory hierarchy
+2014-07-01 12:13:54 [INFO] - [main] Loading XML bean definitions from class path resource [applicationContext.xml]
+2014-07-01 12:13:54 [INFO] - [main] JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+2014-07-01 12:13:55 [INFO] - [main] Refreshing org.springframework.context.support.GenericApplicationContext@4f8235ed: startup date [Tue Jul 01 12:13:55 GMT+08:00 2014]; root of context hierarchy
+2014-07-01 12:13:55 [INFO] - [main] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2014-07-01 12:13:55 [INFO] - [main] Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@309ff0a8: defining beans [org.springframework.aop.config.internalAutoProxyCreator,cachePoxy,testLeCacheAnn,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0]; root of factory hierarchy
+2014-07-01 12:13:55 [WARN] - [main] No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/Users/liaoyong/.m2/repository/net/sf/ehcache/ehcache-core/2.4.5/ehcache-core-2.4.5.jar!/ehcache-failsafe.xml
+2014-07-01 12:13:56 [INFO] - [main] lecache加载memcahe配置，memcached.url=
+2014-07-01 12:13:56 [INFO] - [Thread-2] Closing org.springframework.context.support.GenericApplicationContext@4f8235ed: startup date [Tue Jul 01 12:13:55 GMT+08:00 2014]; root of context hierarchy
+2014-07-01 12:13:56 [INFO] - [Thread-2] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@309ff0a8: defining beans [org.springframework.aop.config.internalAutoProxyCreator,cachePoxy,testLeCacheAnn,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0]; root of factory hierarchy
+2014-07-01 12:14:47 [INFO] - [main] Loading XML bean definitions from class path resource [applicationContext.xml]
+2014-07-01 12:14:48 [INFO] - [main] JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+2014-07-01 12:14:48 [INFO] - [main] Refreshing org.springframework.context.support.GenericApplicationContext@c9be79a: startup date [Tue Jul 01 12:14:48 GMT+08:00 2014]; root of context hierarchy
+2014-07-01 12:14:48 [INFO] - [main] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2014-07-01 12:14:48 [INFO] - [main] Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5470be88: defining beans [org.springframework.aop.config.internalAutoProxyCreator,cachePoxy,testLeCacheAnn,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0]; root of factory hierarchy
+2014-07-01 12:14:49 [WARN] - [main] No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/Users/liaoyong/.m2/repository/net/sf/ehcache/ehcache-core/2.4.5/ehcache-core-2.4.5.jar!/ehcache-failsafe.xml
+2014-07-01 12:14:49 [INFO] - [main] lecache加载memcahe配置，memcached.url=192.168.5.101:11211
+2014-07-01 12:14:49 [INFO] - [Thread-2] Closing org.springframework.context.support.GenericApplicationContext@c9be79a: startup date [Tue Jul 01 12:14:48 GMT+08:00 2014]; root of context hierarchy
+2014-07-01 12:14:49 [INFO] - [Thread-2] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5470be88: defining beans [org.springframework.aop.config.internalAutoProxyCreator,cachePoxy,testLeCacheAnn,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0]; root of factory hierarchy
+2014-07-01 14:19:14 [INFO] - [main] Loading XML bean definitions from class path resource [applicationContext.xml]
+2014-07-01 14:19:15 [INFO] - [main] JSR-330 'javax.inject.Named' annotation found and supported for component scanning
+2014-07-01 14:19:15 [INFO] - [main] Refreshing org.springframework.context.support.GenericApplicationContext@4a57ea52: startup date [Tue Jul 01 14:19:15 GMT+08:00 2014]; root of context hierarchy
+2014-07-01 14:19:15 [INFO] - [main] JSR-330 'javax.inject.Inject' annotation found and supported for autowiring
+2014-07-01 14:19:15 [INFO] - [main] Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@46ac97cc: defining beans [org.springframework.aop.config.internalAutoProxyCreator,cachePoxy,testLeCacheAnn,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0]; root of factory hierarchy
+2014-07-01 14:19:16 [WARN] - [main] No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/Users/liaoyong/.m2/repository/net/sf/ehcache/ehcache-core/2.4.5/ehcache-core-2.4.5.jar!/ehcache-failsafe.xml
+2014-07-01 14:19:16 [INFO] - [main] lecache加载memcahe配置，memcached.url=192.168.5.101:11211
+2014-07-01 14:19:20 [INFO] - [net.sf.ehcache.CacheManager@5852f73e] New update(s) found: 2.4.7 [http://www.terracotta.org/confluence/display/release/Release+Notes+Ehcache+Core+2.4]. Please check http://ehcache.org for the latest version.
+2014-07-01 14:19:20 [INFO] - [Thread-2] Closing org.springframework.context.support.GenericApplicationContext@4a57ea52: startup date [Tue Jul 01 14:19:15 GMT+08:00 2014]; root of context hierarchy
+2014-07-01 14:19:20 [INFO] - [Thread-2] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@46ac97cc: defining beans [org.springframework.aop.config.internalAutoProxyCreator,cachePoxy,testLeCacheAnn,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0]; root of factory hierarchy
+2014-07-01 18:12:49 [INFO] - [main] Loading XML bean definitions from class path resource [applicationContext.xml]
+2014-07-01 18:12:50 [INFO] - [main] Refreshing org.springframework.context.support.GenericApplicationContext@5ae576d4: startup date [Tue Jul 01 18:12:50 GMT+08:00 2014]; root of context hierarchy
+2014-07-01 18:12:50 [INFO] - [main] Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@11082823: defining beans [org.springframework.aop.config.internalAutoProxyCreator,cachePoxy,testLeCacheAnn,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0]; root of factory hierarchy
+2014-07-01 18:12:51 [WARN] - [main] No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/Users/liaoyong/.m2/repository/net/sf/ehcache/ehcache/2.8.3/ehcache-2.8.3.jar!/ehcache-failsafe.xml
+2014-07-01 18:12:51 [INFO] - [main] lecache加载memcahe配置，memcached.url=192.168.5.101:11211
+2014-07-01 18:13:15 [INFO] - [Thread-2] Closing org.springframework.context.support.GenericApplicationContext@5ae576d4: startup date [Tue Jul 01 18:12:50 GMT+08:00 2014]; root of context hierarchy
+2014-07-01 18:13:15 [INFO] - [Thread-2] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@11082823: defining beans [org.springframework.aop.config.internalAutoProxyCreator,cachePoxy,testLeCacheAnn,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0]; root of factory hierarchy
+2014-07-01 18:13:57 [INFO] - [main] Loading XML bean definitions from class path resource [applicationContext.xml]
+2014-07-01 18:13:58 [INFO] - [main] Refreshing org.springframework.context.support.GenericApplicationContext@3598cb3d: startup date [Tue Jul 01 18:13:58 GMT+08:00 2014]; root of context hierarchy
+2014-07-01 18:13:58 [INFO] - [main] Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@26a3960: defining beans [org.springframework.aop.config.internalAutoProxyCreator,cachePoxy,testLeCacheAnn,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0]; root of factory hierarchy
+2014-07-01 18:13:59 [WARN] - [main] No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/Users/liaoyong/.m2/repository/net/sf/ehcache/ehcache/2.8.3/ehcache-2.8.3.jar!/ehcache-failsafe.xml
+2014-07-01 18:13:59 [INFO] - [main] lecache加载memcahe配置，memcached.url=192.168.5.101:11211
+2014-07-01 18:13:59 [INFO] - [Thread-2] Closing org.springframework.context.support.GenericApplicationContext@3598cb3d: startup date [Tue Jul 01 18:13:58 GMT+08:00 2014]; root of context hierarchy
+2014-07-01 18:13:59 [INFO] - [Thread-2] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@26a3960: defining beans [org.springframework.aop.config.internalAutoProxyCreator,cachePoxy,testLeCacheAnn,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0]; root of factory hierarchy
+2014-07-01 19:31:44 [INFO] - [main] Loading XML bean definitions from class path resource [applicationContext.xml]
+2014-07-01 19:31:44 [INFO] - [main] Refreshing org.springframework.context.support.GenericApplicationContext@114e3f41: startup date [Tue Jul 01 19:31:44 GMT+08:00 2014]; root of context hierarchy
+2014-07-01 19:31:44 [INFO] - [main] Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5a199939: defining beans [org.springframework.aop.config.internalAutoProxyCreator,cachePoxy,testLeCacheAnn,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0]; root of factory hierarchy
+2014-07-01 19:31:44 [INFO] - [main] using logger: com.ledong.middleware.cache.logger.log4j.Log4jAdpter
+2014-07-01 19:31:45 [WARN] - [main] No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/Users/liaoyong/.m2/repository/net/sf/ehcache/ehcache/2.8.3/ehcache-2.8.3.jar!/ehcache-failsafe.xml
+2014-07-01 19:31:45 [INFO] - [main]  [LeCache] lecache加载memcahe配置，memcached.url=192.168.5.101:11211,  version: 1.0.0
+2014-07-01 19:31:46 [INFO] - [Thread-2] Closing org.springframework.context.support.GenericApplicationContext@114e3f41: startup date [Tue Jul 01 19:31:44 GMT+08:00 2014]; root of context hierarchy
+2014-07-01 19:31:46 [INFO] - [Thread-2] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@5a199939: defining beans [org.springframework.aop.config.internalAutoProxyCreator,cachePoxy,testLeCacheAnn,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0]; root of factory hierarchy
+2014-07-01 19:32:19 [DEBUG] - [main] SpringJUnit4ClassRunner constructor called with [class com.ledong.middleware.cache.test.TestCache].
+2014-07-01 19:32:19 [DEBUG] - [main] Delegating to GenericXmlContextLoader to process context configuration [ContextConfigurationAttributes@1ed0af9b declaringClass = 'com.ledong.middleware.cache.test.TestCache', locations = '{classpath:applicationContext.xml}', classes = '{}', inheritLocations = true, contextLoaderClass = 'org.springframework.test.context.ContextLoader'].
+2014-07-01 19:32:19 [DEBUG] - [main] Could not find an 'annotation declaring class' for annotation type [interface org.springframework.test.context.ActiveProfiles] and class [class com.ledong.middleware.cache.test.TestCache]
+2014-07-01 19:32:19 [DEBUG] - [main] Retrieved @ProfileValueSourceConfiguration [null] for test class [com.ledong.middleware.cache.test.TestCache]
+2014-07-01 19:32:19 [DEBUG] - [main] Retrieved ProfileValueSource type [class org.springframework.test.annotation.SystemProfileValueSource] for class [com.ledong.middleware.cache.test.TestCache]
+2014-07-01 19:32:19 [DEBUG] - [main] Retrieved @ProfileValueSourceConfiguration [null] for test class [com.ledong.middleware.cache.test.TestCache]
+2014-07-01 19:32:19 [DEBUG] - [main] Retrieved ProfileValueSource type [class org.springframework.test.annotation.SystemProfileValueSource] for class [com.ledong.middleware.cache.test.TestCache]
+2014-07-01 19:32:19 [DEBUG] - [main] Retrieved @ProfileValueSourceConfiguration [null] for test class [com.ledong.middleware.cache.test.TestCache]
+2014-07-01 19:32:19 [DEBUG] - [main] Retrieved ProfileValueSource type [class org.springframework.test.annotation.SystemProfileValueSource] for class [com.ledong.middleware.cache.test.TestCache]
+2014-07-01 19:32:19 [DEBUG] - [main] Retrieved @ProfileValueSourceConfiguration [null] for test class [com.ledong.middleware.cache.test.TestCache]
+2014-07-01 19:32:19 [DEBUG] - [main] Retrieved ProfileValueSource type [class org.springframework.test.annotation.SystemProfileValueSource] for class [com.ledong.middleware.cache.test.TestCache]
+2014-07-01 19:32:19 [DEBUG] - [main] Performing dependency injection for test context [[TestContext@2ce1899b testClass = TestCache, testInstance = com.ledong.middleware.cache.test.TestCache@b113622, testMethod = [null], testException = [null], mergedContextConfiguration = [MergedContextConfiguration@16f8f7db testClass = TestCache, locations = '{classpath:applicationContext.xml}', classes = '{}', activeProfiles = '{}', contextLoader = 'org.springframework.test.context.support.DelegatingSmartContextLoader']]].
+2014-07-01 19:32:19 [DEBUG] - [main] Delegating to GenericXmlContextLoader to load context from [MergedContextConfiguration@16f8f7db testClass = TestCache, locations = '{classpath:applicationContext.xml}', classes = '{}', activeProfiles = '{}', contextLoader = 'org.springframework.test.context.support.DelegatingSmartContextLoader'].
+2014-07-01 19:32:19 [DEBUG] - [main] Loading ApplicationContext for merged context configuration [[MergedContextConfiguration@16f8f7db testClass = TestCache, locations = '{classpath:applicationContext.xml}', classes = '{}', activeProfiles = '{}', contextLoader = 'org.springframework.test.context.support.DelegatingSmartContextLoader']].
+2014-07-01 19:32:19 [DEBUG] - [main] Initializing new StandardEnvironment
+2014-07-01 19:32:19 [DEBUG] - [main] Adding [systemProperties] PropertySource with lowest search precedence
+2014-07-01 19:32:19 [DEBUG] - [main] Adding [systemEnvironment] PropertySource with lowest search precedence
+2014-07-01 19:32:19 [DEBUG] - [main] Initialized StandardEnvironment with PropertySources [systemProperties,systemEnvironment]
+2014-07-01 19:32:19 [DEBUG] - [main] Initializing new StandardEnvironment
+2014-07-01 19:32:19 [DEBUG] - [main] Adding [systemProperties] PropertySource with lowest search precedence
+2014-07-01 19:32:19 [DEBUG] - [main] Adding [systemEnvironment] PropertySource with lowest search precedence
+2014-07-01 19:32:19 [DEBUG] - [main] Initialized StandardEnvironment with PropertySources [systemProperties,systemEnvironment]
+2014-07-01 19:32:19 [INFO] - [main] Loading XML bean definitions from class path resource [applicationContext.xml]
+2014-07-01 19:32:19 [DEBUG] - [main] Using JAXP provider [com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderFactoryImpl]
+2014-07-01 19:32:19 [DEBUG] - [main] Loading schema mappings from [META-INF/spring.schemas]
+2014-07-01 19:32:19 [DEBUG] - [main] Loaded schema mappings: {http://code.alibabatech.com/schema/dubbo/dubbo.xsd=META-INF/dubbo.xsd, http://www.springframework.org/schema/util/spring-util.xsd=org/springframework/beans/factory/xml/spring-util-2.5.xsd, http://www.springframework.org/schema/task/spring-task.xsd=org/springframework/scheduling/config/spring-task-3.1.xsd, http://www.springframework.org/schema/beans/spring-beans-3.1.xsd=org/springframework/beans/factory/xml/spring-beans-3.1.xsd, http://www.springframework.org/schema/cache/spring-cache.xsd=org/springframework/cache/config/spring-cache-3.1.xsd, http://www.springframework.org/schema/aop/spring-aop-3.0.xsd=org/springframework/aop/config/spring-aop-3.0.xsd, http://www.springframework.org/schema/task/spring-task-3.1.xsd=org/springframework/scheduling/config/spring-task-3.1.xsd, http://www.springframework.org/schema/aop/spring-aop-2.0.xsd=org/springframework/aop/config/spring-aop-2.0.xsd, http://www.springframework.org/schema/tool/spring-tool-2.5.xsd=org/springframework/beans/factory/xml/spring-tool-2.5.xsd, http://www.springframework.org/schema/beans/spring-beans.xsd=org/springframework/beans/factory/xml/spring-beans-2.5.xsd, http://www.springframework.org/schema/jee/spring-jee-2.5.xsd=org/springframework/ejb/config/spring-jee-2.5.xsd, http://www.springframework.org/schema/tool/spring-tool-3.1.xsd=org/springframework/beans/factory/xml/spring-tool-3.1.xsd, http://www.springframework.org/schema/jee/spring-jee-3.1.xsd=org/springframework/ejb/config/spring-jee-3.1.xsd, http://www.springframework.org/schema/aop/spring-aop.xsd=org/springframework/aop/config/spring-aop-2.5.xsd, http://www.springframework.org/schema/beans/spring-beans-2.0.xsd=org/springframework/beans/factory/xml/spring-beans-2.0.xsd, http://www.springframework.org/schema/beans/spring-beans-3.0.xsd=org/springframework/beans/factory/xml/spring-beans-3.0.xsd, http://www.springframework.org/schema/task/spring-task-3.0.xsd=org/springframework/scheduling/config/spring-task-3.0.xsd, http://www.springframework.org/schema/tx/spring-tx-2.5.xsd=org/springframework/transaction/config/spring-tx-2.5.xsd, http://www.springframework.org/schema/context/spring-context-2.5.xsd=org/springframework/context/config/spring-context-2.5.xsd, http://www.springframework.org/schema/tool/spring-tool-3.0.xsd=org/springframework/beans/factory/xml/spring-tool-3.0.xsd, http://www.springframework.org/schema/tx/spring-tx.xsd=org/springframework/transaction/config/spring-tx-2.5.xsd, http://www.springframework.org/schema/tool/spring-tool-2.0.xsd=org/springframework/beans/factory/xml/spring-tool-2.0.xsd, http://www.springframework.org/schema/util/spring-util-2.5.xsd=org/springframework/beans/factory/xml/spring-util-2.5.xsd, http://www.springframework.org/schema/lang/spring-lang.xsd=org/springframework/scripting/config/spring-lang-2.5.xsd, http://www.springframework.org/schema/lang/spring-lang-2.5.xsd=org/springframework/scripting/config/spring-lang-2.5.xsd, http://www.springframework.org/schema/jee/spring-jee-3.0.xsd=org/springframework/ejb/config/spring-jee-3.0.xsd, http://www.springframework.org/schema/jee/spring-jee-2.0.xsd=org/springframework/ejb/config/spring-jee-2.0.xsd, http://www.springframework.org/schema/context/spring-context-3.1.xsd=org/springframework/context/config/spring-context-3.1.xsd, http://www.springframework.org/schema/util/spring-util-3.1.xsd=org/springframework/beans/factory/xml/spring-util-3.1.xsd, http://www.springframework.org/schema/lang/spring-lang-3.1.xsd=org/springframework/scripting/config/spring-lang-3.1.xsd, http://www.springframework.org/schema/cache/spring-cache-3.1.xsd=org/springframework/cache/config/spring-cache-3.1.xsd, http://www.springframework.org/schema/context/spring-context.xsd=org/springframework/context/config/spring-context-2.5.xsd, http://www.springframework.org/schema/jee/spring-jee.xsd=org/springframework/ejb/config/spring-jee-2.5.xsd, http://www.springframework.org/schema/jms/spring-jms-2.5.xsd=org/springframework/jms/config/spring-jms-2.5.xsd, http://www.springframework.org/schema/jms/spring-jms.xsd=org/springframework/jms/config/spring-jms-2.5.xsd, http://www.springframework.org/schema/aop/spring-aop-2.5.xsd=org/springframework/aop/config/spring-aop-2.5.xsd, http://www.springframework.org/schema/tx/spring-tx-2.0.xsd=org/springframework/transaction/config/spring-tx-2.0.xsd, http://www.springframework.org/schema/aop/spring-aop-3.1.xsd=org/springframework/aop/config/spring-aop-3.1.xsd, http://www.springframework.org/schema/context/spring-context-3.0.xsd=org/springframework/context/config/spring-context-3.0.xsd, http://www.springframework.org/schema/tool/spring-tool.xsd=org/springframework/beans/factory/xml/spring-tool-2.5.xsd, http://www.springframework.org/schema/util/spring-util-3.0.xsd=org/springframework/beans/factory/xml/spring-util-3.0.xsd, http://www.springframework.org/schema/lang/spring-lang-3.0.xsd=org/springframework/scripting/config/spring-lang-3.0.xsd, http://www.springframework.org/schema/util/spring-util-2.0.xsd=org/springframework/beans/factory/xml/spring-util-2.0.xsd, http://www.springframework.org/schema/lang/spring-lang-2.0.xsd=org/springframework/scripting/config/spring-lang-2.0.xsd, http://www.springframework.org/schema/beans/spring-beans-2.5.xsd=org/springframework/beans/factory/xml/spring-beans-2.5.xsd}
+2014-07-01 19:32:19 [DEBUG] - [main] Found XML schema [http://www.springframework.org/schema/beans/spring-beans-3.0.xsd] in classpath: org/springframework/beans/factory/xml/spring-beans-3.0.xsd
+2014-07-01 19:32:19 [DEBUG] - [main] Found XML schema [http://www.springframework.org/schema/aop/spring-aop-3.0.xsd] in classpath: org/springframework/aop/config/spring-aop-3.0.xsd
+2014-07-01 19:32:19 [DEBUG] - [main] Found XML schema [http://www.springframework.org/schema/tool/spring-tool-3.0.xsd] in classpath: org/springframework/beans/factory/xml/spring-tool-3.0.xsd
+2014-07-01 19:32:19 [DEBUG] - [main] Found XML schema [http://www.springframework.org/schema/context/spring-context-3.1.xsd] in classpath: org/springframework/context/config/spring-context-3.1.xsd
+2014-07-01 19:32:19 [DEBUG] - [main] Loading bean definitions
+2014-07-01 19:32:19 [DEBUG] - [main] Loaded NamespaceHandler mappings: {http://www.springframework.org/schema/p=org.springframework.beans.factory.xml.SimplePropertyNamespaceHandler, http://www.springframework.org/schema/util=org.springframework.beans.factory.xml.UtilNamespaceHandler, http://code.alibabatech.com/schema/dubbo=com.alibaba.dubbo.config.spring.schema.DubboNamespaceHandler, http://www.springframework.org/schema/jee=org.springframework.ejb.config.JeeNamespaceHandler, http://www.springframework.org/schema/aop=org.springframework.aop.config.AopNamespaceHandler, http://www.springframework.org/schema/cache=org.springframework.cache.config.CacheNamespaceHandler, http://www.springframework.org/schema/c=org.springframework.beans.factory.xml.SimpleConstructorNamespaceHandler, http://www.springframework.org/schema/tx=org.springframework.transaction.config.TxNamespaceHandler, http://www.springframework.org/schema/jms=org.springframework.jms.config.JmsNamespaceHandler, http://www.springframework.org/schema/task=org.springframework.scheduling.config.TaskNamespaceHandler, http://www.springframework.org/schema/lang=org.springframework.scripting.config.LangNamespaceHandler, http://www.springframework.org/schema/context=org.springframework.context.config.ContextNamespaceHandler}
+2014-07-01 19:32:19 [DEBUG] - [main] Looking for matching resources in directory tree [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/test-classes/com/ledong/middleware/cache]
+2014-07-01 19:32:19 [DEBUG] - [main] Searching directory [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/test-classes/com/ledong/middleware/cache] for files matching pattern [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/test-classes/com/ledong/middleware/cache/**/*.class]
+2014-07-01 19:32:19 [DEBUG] - [main] Searching directory [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/test-classes/com/ledong/middleware/cache/test] for files matching pattern [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/test-classes/com/ledong/middleware/cache/**/*.class]
+2014-07-01 19:32:19 [DEBUG] - [main] Looking for matching resources in directory tree [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache]
+2014-07-01 19:32:19 [DEBUG] - [main] Searching directory [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache] for files matching pattern [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/**/*.class]
+2014-07-01 19:32:19 [DEBUG] - [main] Searching directory [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/annotation] for files matching pattern [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/**/*.class]
+2014-07-01 19:32:19 [DEBUG] - [main] Searching directory [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/container] for files matching pattern [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/**/*.class]
+2014-07-01 19:32:19 [DEBUG] - [main] Searching directory [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/logger] for files matching pattern [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/**/*.class]
+2014-07-01 19:32:19 [DEBUG] - [main] Searching directory [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/logger/log4j] for files matching pattern [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/**/*.class]
+2014-07-01 19:32:19 [DEBUG] - [main] Searching directory [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/logger/slf4j] for files matching pattern [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/**/*.class]
+2014-07-01 19:32:19 [DEBUG] - [main] Resolved location pattern [classpath*:com/ledong/middleware/cache/**/*.class] to resources [file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/test-classes/com/ledong/middleware/cache/test/TestCache.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/annotation/LeCache.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/CacheConfigUtil.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/CachePoxy.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/container/CacheFactory.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/container/Container.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/container/EhcacheContainer.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/container/MemcacheContainer$1.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/container/MemcacheContainer$2.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/container/MemcacheContainer.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/logger/CacheLogger$Logger.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/logger/CacheLogger.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/logger/CacheLoggerFactory.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/logger/LeDongLogger.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/logger/Level.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/logger/log4j/Log4jAdpter.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/logger/log4j/Log4jLogger.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/logger/LoggerAdpter.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/logger/slf4j/Slf4jAdpter.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/logger/slf4j/Slf4jLogger.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/ParamProcessClass.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/StorageStrategy.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/TestLeCacheAnn.class]]
+2014-07-01 19:32:19 [DEBUG] - [main] Identified candidate component class: file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/CachePoxy.class]
+2014-07-01 19:32:19 [DEBUG] - [main] Identified candidate component class: file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/TestLeCacheAnn.class]
+2014-07-01 19:32:19 [DEBUG] - [main] Loaded 7 bean definitions from location pattern [classpath:applicationContext.xml]
+2014-07-01 19:32:19 [INFO] - [main] Refreshing org.springframework.context.support.GenericApplicationContext@7cb25b9d: startup date [Tue Jul 01 19:32:19 GMT+08:00 2014]; root of context hierarchy
+2014-07-01 19:32:19 [DEBUG] - [main] Bean factory for org.springframework.context.support.GenericApplicationContext@7cb25b9d: org.springframework.beans.factory.support.DefaultListableBeanFactory@2d8e8541: defining beans [org.springframework.aop.config.internalAutoProxyCreator,cachePoxy,testLeCacheAnn,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor]; root of factory hierarchy
+2014-07-01 19:32:19 [DEBUG] - [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-07-01 19:32:19 [DEBUG] - [main] Creating instance of bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-07-01 19:32:19 [DEBUG] - [main] Eagerly caching bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor' to allow for resolving potential circular references
+2014-07-01 19:32:19 [DEBUG] - [main] Finished creating instance of bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-07-01 19:32:19 [DEBUG] - [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2014-07-01 19:32:19 [DEBUG] - [main] Creating instance of bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2014-07-01 19:32:19 [DEBUG] - [main] Eagerly caching bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor' to allow for resolving potential circular references
+2014-07-01 19:32:19 [DEBUG] - [main] Finished creating instance of bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2014-07-01 19:32:19 [DEBUG] - [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2014-07-01 19:32:19 [DEBUG] - [main] Creating instance of bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2014-07-01 19:32:19 [DEBUG] - [main] Eagerly caching bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor' to allow for resolving potential circular references
+2014-07-01 19:32:19 [DEBUG] - [main] Finished creating instance of bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2014-07-01 19:32:19 [DEBUG] - [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2014-07-01 19:32:19 [DEBUG] - [main] Creating instance of bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2014-07-01 19:32:19 [DEBUG] - [main] Eagerly caching bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor' to allow for resolving potential circular references
+2014-07-01 19:32:19 [DEBUG] - [main] Finished creating instance of bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2014-07-01 19:32:19 [DEBUG] - [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0'
+2014-07-01 19:32:19 [DEBUG] - [main] Creating instance of bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0'
+2014-07-01 19:32:19 [DEBUG] - [main] Eagerly caching bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0' to allow for resolving potential circular references
+2014-07-01 19:32:19 [DEBUG] - [main] Finished creating instance of bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0'
+2014-07-01 19:32:19 [DEBUG] - [main] Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2014-07-01 19:32:19 [DEBUG] - [main] Creating instance of bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2014-07-01 19:32:19 [DEBUG] - [main] Eagerly caching bean 'org.springframework.aop.config.internalAutoProxyCreator' to allow for resolving potential circular references
+2014-07-01 19:32:20 [DEBUG] - [main] Finished creating instance of bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2014-07-01 19:32:20 [DEBUG] - [main] Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@743fbbfc]
+2014-07-01 19:32:20 [DEBUG] - [main] Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@293b9fae]
+2014-07-01 19:32:20 [INFO] - [main] Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2d8e8541: defining beans [org.springframework.aop.config.internalAutoProxyCreator,cachePoxy,testLeCacheAnn,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0]; root of factory hierarchy
+2014-07-01 19:32:20 [DEBUG] - [main] Returning cached instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2014-07-01 19:32:20 [DEBUG] - [main] Creating shared instance of singleton bean 'cachePoxy'
+2014-07-01 19:32:20 [DEBUG] - [main] Creating instance of bean 'cachePoxy'
+2014-07-01 19:32:20 [INFO] - [main] using logger: com.ledong.middleware.cache.logger.log4j.Log4jAdpter
+2014-07-01 19:32:20 [DEBUG] - [main] Eagerly caching bean 'cachePoxy' to allow for resolving potential circular references
+2014-07-01 19:32:20 [DEBUG] - [main] Finished creating instance of bean 'cachePoxy'
+2014-07-01 19:32:20 [DEBUG] - [main] Creating shared instance of singleton bean 'testLeCacheAnn'
+2014-07-01 19:32:20 [DEBUG] - [main] Creating instance of bean 'testLeCacheAnn'
+2014-07-01 19:32:20 [DEBUG] - [main] Found AspectJ method: public java.lang.Object com.ledong.middleware.cache.CachePoxy.methodCachePoxy(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.SecurityException,java.lang.NoSuchMethodException,javassist.NotFoundException
+2014-07-01 19:32:20 [DEBUG] - [main] Eagerly caching bean 'testLeCacheAnn' to allow for resolving potential circular references
+2014-07-01 19:32:20 [DEBUG] - [main] Creating implicit proxy for bean 'testLeCacheAnn' with 0 common interceptors and 2 specific interceptors
+2014-07-01 19:32:20 [DEBUG] - [main] Creating CGLIB2 proxy: target source is SingletonTargetSource for target object [com.ledong.middleware.cache.TestLeCacheAnn@6545d2]
+2014-07-01 19:32:20 [DEBUG] - [main] Unable to apply any optimisations to advised method: public java.lang.String com.ledong.middleware.cache.TestLeCacheAnn.getHello(java.lang.String,int)
+2014-07-01 19:32:20 [DEBUG] - [main] Found finalize() method - using NO_OVERRIDE
+2014-07-01 19:32:20 [DEBUG] - [main] Found 'equals' method: public boolean java.lang.Object.equals(java.lang.Object)
+2014-07-01 19:32:20 [DEBUG] - [main] Unable to apply any optimisations to advised method: public java.lang.String java.lang.Object.toString()
+2014-07-01 19:32:20 [DEBUG] - [main] Found 'hashCode' method: public native int java.lang.Object.hashCode()
+2014-07-01 19:32:20 [DEBUG] - [main] Unable to apply any optimisations to advised method: protected native java.lang.Object java.lang.Object.clone() throws java.lang.CloneNotSupportedException
+2014-07-01 19:32:20 [DEBUG] - [main] Method is declared on Advised interface: public abstract int org.springframework.aop.framework.Advised.indexOf(org.aopalliance.aop.Advice)
+2014-07-01 19:32:20 [DEBUG] - [main] Method is declared on Advised interface: public abstract int org.springframework.aop.framework.Advised.indexOf(org.springframework.aop.Advisor)
+2014-07-01 19:32:20 [DEBUG] - [main] Method is declared on Advised interface: public abstract boolean org.springframework.aop.framework.Advised.isFrozen()
+2014-07-01 19:32:20 [DEBUG] - [main] Method is declared on Advised interface: public abstract org.springframework.aop.TargetSource org.springframework.aop.framework.Advised.getTargetSource()
+2014-07-01 19:32:20 [DEBUG] - [main] Method is declared on Advised interface: public abstract void org.springframework.aop.framework.Advised.addAdvisor(org.springframework.aop.Advisor) throws org.springframework.aop.framework.AopConfigException
+2014-07-01 19:32:20 [DEBUG] - [main] Method is declared on Advised interface: public abstract void org.springframework.aop.framework.Advised.addAdvisor(int,org.springframework.aop.Advisor) throws org.springframework.aop.framework.AopConfigException
+2014-07-01 19:32:20 [DEBUG] - [main] Method is declared on Advised interface: public abstract void org.springframework.aop.framework.Advised.setTargetSource(org.springframework.aop.TargetSource)
+2014-07-01 19:32:20 [DEBUG] - [main] Method is declared on Advised interface: public abstract void org.springframework.aop.framework.Advised.setPreFiltered(boolean)
+2014-07-01 19:32:20 [DEBUG] - [main] Method is declared on Advised interface: public abstract boolean org.springframework.aop.framework.Advised.isProxyTargetClass()
+2014-07-01 19:32:20 [DEBUG] - [main] Method is declared on Advised interface: public abstract void org.springframework.aop.framework.Advised.setExposeProxy(boolean)
+2014-07-01 19:32:20 [DEBUG] - [main] Method is declared on Advised interface: public abstract boolean org.springframework.aop.framework.Advised.isExposeProxy()
+2014-07-01 19:32:20 [DEBUG] - [main] Method is declared on Advised interface: public abstract org.springframework.aop.Advisor[] org.springframework.aop.framework.Advised.getAdvisors()
+2014-07-01 19:32:20 [DEBUG] - [main] Method is declared on Advised interface: public abstract void org.springframework.aop.framework.Advised.addAdvice(org.aopalliance.aop.Advice) throws org.springframework.aop.framework.AopConfigException
+2014-07-01 19:32:20 [DEBUG] - [main] Method is declared on Advised interface: public abstract void org.springframework.aop.framework.Advised.addAdvice(int,org.aopalliance.aop.Advice) throws org.springframework.aop.framework.AopConfigException
+2014-07-01 19:32:20 [DEBUG] - [main] Method is declared on Advised interface: public abstract boolean org.springframework.aop.framework.Advised.isPreFiltered()
+2014-07-01 19:32:20 [DEBUG] - [main] Method is declared on Advised interface: public abstract java.lang.Class[] org.springframework.aop.framework.Advised.getProxiedInterfaces()
+2014-07-01 19:32:20 [DEBUG] - [main] Method is declared on Advised interface: public abstract boolean org.springframework.aop.framework.Advised.isInterfaceProxied(java.lang.Class)
+2014-07-01 19:32:20 [DEBUG] - [main] Method is declared on Advised interface: public abstract void org.springframework.aop.framework.Advised.removeAdvisor(int) throws org.springframework.aop.framework.AopConfigException
+2014-07-01 19:32:20 [DEBUG] - [main] Method is declared on Advised interface: public abstract boolean org.springframework.aop.framework.Advised.removeAdvisor(org.springframework.aop.Advisor)
+2014-07-01 19:32:20 [DEBUG] - [main] Method is declared on Advised interface: public abstract boolean org.springframework.aop.framework.Advised.replaceAdvisor(org.springframework.aop.Advisor,org.springframework.aop.Advisor) throws org.springframework.aop.framework.AopConfigException
+2014-07-01 19:32:20 [DEBUG] - [main] Method is declared on Advised interface: public abstract boolean org.springframework.aop.framework.Advised.removeAdvice(org.aopalliance.aop.Advice)
+2014-07-01 19:32:20 [DEBUG] - [main] Method is declared on Advised interface: public abstract java.lang.String org.springframework.aop.framework.Advised.toProxyConfigString()
+2014-07-01 19:32:20 [DEBUG] - [main] Method is declared on Advised interface: public abstract java.lang.Class org.springframework.aop.TargetClassAware.getTargetClass()
+2014-07-01 19:32:20 [DEBUG] - [main] Finished creating instance of bean 'testLeCacheAnn'
+2014-07-01 19:32:20 [DEBUG] - [main] Returning cached instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-07-01 19:32:20 [DEBUG] - [main] Returning cached instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2014-07-01 19:32:20 [DEBUG] - [main] Returning cached instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2014-07-01 19:32:20 [DEBUG] - [main] Returning cached instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2014-07-01 19:32:20 [DEBUG] - [main] Returning cached instance of singleton bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0'
+2014-07-01 19:32:20 [DEBUG] - [main] Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@510ebe18]
+2014-07-01 19:32:20 [DEBUG] - [main] Returning cached instance of singleton bean 'lifecycleProcessor'
+2014-07-01 19:32:20 [DEBUG] - [main] Storing ApplicationContext for test class [class com.ledong.middleware.cache.test.TestCache] in cache under key [[MergedContextConfiguration@16f8f7db testClass = TestCache, locations = '{classpath:applicationContext.xml}', classes = '{}', activeProfiles = '{}', contextLoader = 'org.springframework.test.context.support.DelegatingSmartContextLoader']].
+2014-07-01 19:32:20 [DEBUG] - [main] Found injected element on class [com.ledong.middleware.cache.test.TestCache]: AutowiredFieldElement for com.ledong.middleware.cache.TestLeCacheAnn com.ledong.middleware.cache.test.TestCache.testLeCacheAnn
+2014-07-01 19:32:20 [DEBUG] - [main] Processing injected method of bean 'com.ledong.middleware.cache.test.TestCache': AutowiredFieldElement for com.ledong.middleware.cache.TestLeCacheAnn com.ledong.middleware.cache.test.TestCache.testLeCacheAnn
+2014-07-01 19:32:20 [DEBUG] - [main] Returning cached instance of singleton bean 'testLeCacheAnn'
+2014-07-01 19:32:20 [DEBUG] - [main] Autowiring by type from bean name 'com.ledong.middleware.cache.test.TestCache' to bean named 'testLeCacheAnn'
+2014-07-01 19:32:20 [DEBUG] - [main] Returning cached instance of singleton bean 'cachePoxy'
+2014-07-01 19:32:20 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:20 [WARN] - [main] No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/Users/liaoyong/.m2/repository/net/sf/ehcache/ehcache/2.8.3/ehcache-2.8.3.jar!/ehcache-failsafe.xml
+2014-07-01 19:32:20 [DEBUG] - [main] Configuring ehcache from URL: jar:file:/Users/liaoyong/.m2/repository/net/sf/ehcache/ehcache/2.8.3/ehcache-2.8.3.jar!/ehcache-failsafe.xml
+2014-07-01 19:32:20 [DEBUG] - [main] Configuring ehcache from InputStream
+2014-07-01 19:32:20 [DEBUG] - [main] Ignoring ehcache attribute xmlns:xsi
+2014-07-01 19:32:20 [DEBUG] - [main] Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+2014-07-01 19:32:20 [DEBUG] - [main] Disk Store Path: /var/folders/54/83zvtcbj17l1vjdmbt62fmh40000gn/T/
+2014-07-01 19:32:20 [DEBUG] - [main] Creating new CacheManager with default config
+2014-07-01 19:32:20 [DEBUG] - [main] propertiesString is null.
+2014-07-01 19:32:20 [DEBUG] - [main] No CacheManagerEventListenerFactory class specified. Skipping...
+2014-07-01 19:32:21 [DEBUG] - [main] No BootstrapCacheLoaderFactory class specified. Skipping...
+2014-07-01 19:32:21 [DEBUG] - [main] CacheWriter factory not configured. Skipping...
+2014-07-01 19:32:21 [DEBUG] - [main] No CacheExceptionHandlerFactory class specified. Skipping...
+2014-07-01 19:32:21 [INFO] - [main]  [LeCache] lecache加载memcahe配置，memcached.url=192.168.5.101:11211,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ledong-memcache-containe:memcache 容器初始化成功.,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main] No BootstrapCacheLoaderFactory class specified. Skipping...
+2014-07-01 19:32:21 [DEBUG] - [main] CacheWriter factory not configured. Skipping...
+2014-07-01 19:32:21 [DEBUG] - [main] Using diskstore path /var/folders/54/83zvtcbj17l1vjdmbt62fmh40000gn/T
+2014-07-01 19:32:21 [DEBUG] - [main] Holding exclusive lock on /var/folders/54/83zvtcbj17l1vjdmbt62fmh40000gn/T/.ehcache-diskstore.lock
+2014-07-01 19:32:21 [DEBUG] - [main] Failed to delete file ledong_ehcache_cachepoxy_10.index
+2014-07-01 19:32:21 [DEBUG] - [main] Matching data file missing (or empty) for index file. Deleting index file /var/folders/54/83zvtcbj17l1vjdmbt62fmh40000gn/T/ledong_ehcache_cachepoxy_10.index
+2014-07-01 19:32:21 [DEBUG] - [main] Failed to delete file ledong_ehcache_cachepoxy_10.index
+2014-07-01 19:32:21 [DEBUG] - [main] Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE
+2014-07-01 19:32:21 [DEBUG] - [main] Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE_BYTES
+2014-07-01 19:32:21 [DEBUG] - [main] Mocking Pass-Through Statistic: WRITER_QUEUE_LENGTH
+2014-07-01 19:32:21 [DEBUG] - [main] Mocking Pass-Through Statistic: REMOTE_SIZE
+2014-07-01 19:32:21 [DEBUG] - [main] Mocking Pass-Through Statistic: LAST_REJOIN_TIMESTAMP
+2014-07-01 19:32:21 [DEBUG] - [main] Mocking Operation Statistic: OFFHEAP_GET
+2014-07-01 19:32:21 [DEBUG] - [main] Mocking Operation Statistic: OFFHEAP_PUT
+2014-07-01 19:32:21 [DEBUG] - [main] Mocking Operation Statistic: OFFHEAP_REMOVE
+2014-07-01 19:32:21 [DEBUG] - [main] Mocking Operation Statistic: XA_COMMIT
+2014-07-01 19:32:21 [DEBUG] - [main] Mocking Operation Statistic: XA_ROLLBACK
+2014-07-01 19:32:21 [DEBUG] - [main] Mocking Operation Statistic: XA_RECOVERY
+2014-07-01 19:32:21 [DEBUG] - [main] Mocking Operation Statistic: CLUSTER_EVENT
+2014-07-01 19:32:21 [DEBUG] - [main] Mocking Operation Statistic: NONSTOP
+2014-07-01 19:32:21 [DEBUG] - [main] Initialised cache: ledong_ehcache_cachepoxy_10
+2014-07-01 19:32:21 [DEBUG] - [main] put added 0 on heap
+2014-07-01 19:32:21 [DEBUG] - [ledong_ehcache_cachepoxy_10.data] fault removed 0 from heap
+2014-07-01 19:32:21 [DEBUG] - [ledong_ehcache_cachepoxy_10.data] fault added 0 on disk
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:32:21 [DEBUG] - [main] After test method: context [[TestContext@2ce1899b testClass = TestCache, testInstance = com.ledong.middleware.cache.test.TestCache@b113622, testMethod = testAspect@TestCache, testException = [null], mergedContextConfiguration = [MergedContextConfiguration@16f8f7db testClass = TestCache, locations = '{classpath:applicationContext.xml}', classes = '{}', activeProfiles = '{}', contextLoader = 'org.springframework.test.context.support.DelegatingSmartContextLoader']]], class dirties context [false], class mode [null], method dirties context [false].
+2014-07-01 19:32:21 [DEBUG] - [main] After test class: context [[TestContext@2ce1899b testClass = TestCache, testInstance = [null], testMethod = [null], testException = [null], mergedContextConfiguration = [MergedContextConfiguration@16f8f7db testClass = TestCache, locations = '{classpath:applicationContext.xml}', classes = '{}', activeProfiles = '{}', contextLoader = 'org.springframework.test.context.support.DelegatingSmartContextLoader']]], dirtiesContext [false].
+2014-07-01 19:32:21 [INFO] - [Thread-2] Closing org.springframework.context.support.GenericApplicationContext@7cb25b9d: startup date [Tue Jul 01 19:32:19 GMT+08:00 2014]; root of context hierarchy
+2014-07-01 19:32:21 [DEBUG] - [Thread-2] Returning cached instance of singleton bean 'lifecycleProcessor'
+2014-07-01 19:32:21 [INFO] - [Thread-2] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@2d8e8541: defining beans [org.springframework.aop.config.internalAutoProxyCreator,cachePoxy,testLeCacheAnn,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0]; root of factory hierarchy
+2014-07-01 19:32:21 [DEBUG] - [Thread-2] Retrieved dependent beans for bean 'testLeCacheAnn': [com.ledong.middleware.cache.test.TestCache]
+2014-07-01 19:37:05 [DEBUG] - [main] SpringJUnit4ClassRunner constructor called with [class com.ledong.middleware.cache.test.TestCache].
+2014-07-01 19:37:05 [DEBUG] - [main] Delegating to GenericXmlContextLoader to process context configuration [ContextConfigurationAttributes@1fd0fafc declaringClass = 'com.ledong.middleware.cache.test.TestCache', locations = '{classpath:applicationContext.xml}', classes = '{}', inheritLocations = true, contextLoaderClass = 'org.springframework.test.context.ContextLoader'].
+2014-07-01 19:37:05 [DEBUG] - [main] Could not find an 'annotation declaring class' for annotation type [interface org.springframework.test.context.ActiveProfiles] and class [class com.ledong.middleware.cache.test.TestCache]
+2014-07-01 19:37:05 [DEBUG] - [main] Retrieved @ProfileValueSourceConfiguration [null] for test class [com.ledong.middleware.cache.test.TestCache]
+2014-07-01 19:37:05 [DEBUG] - [main] Retrieved ProfileValueSource type [class org.springframework.test.annotation.SystemProfileValueSource] for class [com.ledong.middleware.cache.test.TestCache]
+2014-07-01 19:37:05 [DEBUG] - [main] Retrieved @ProfileValueSourceConfiguration [null] for test class [com.ledong.middleware.cache.test.TestCache]
+2014-07-01 19:37:05 [DEBUG] - [main] Retrieved ProfileValueSource type [class org.springframework.test.annotation.SystemProfileValueSource] for class [com.ledong.middleware.cache.test.TestCache]
+2014-07-01 19:37:05 [DEBUG] - [main] Retrieved @ProfileValueSourceConfiguration [null] for test class [com.ledong.middleware.cache.test.TestCache]
+2014-07-01 19:37:05 [DEBUG] - [main] Retrieved ProfileValueSource type [class org.springframework.test.annotation.SystemProfileValueSource] for class [com.ledong.middleware.cache.test.TestCache]
+2014-07-01 19:37:05 [DEBUG] - [main] Retrieved @ProfileValueSourceConfiguration [null] for test class [com.ledong.middleware.cache.test.TestCache]
+2014-07-01 19:37:05 [DEBUG] - [main] Retrieved ProfileValueSource type [class org.springframework.test.annotation.SystemProfileValueSource] for class [com.ledong.middleware.cache.test.TestCache]
+2014-07-01 19:37:05 [DEBUG] - [main] Performing dependency injection for test context [[TestContext@3b6f0be8 testClass = TestCache, testInstance = com.ledong.middleware.cache.test.TestCache@7776cad3, testMethod = [null], testException = [null], mergedContextConfiguration = [MergedContextConfiguration@17fe1feb testClass = TestCache, locations = '{classpath:applicationContext.xml}', classes = '{}', activeProfiles = '{}', contextLoader = 'org.springframework.test.context.support.DelegatingSmartContextLoader']]].
+2014-07-01 19:37:05 [DEBUG] - [main] Delegating to GenericXmlContextLoader to load context from [MergedContextConfiguration@17fe1feb testClass = TestCache, locations = '{classpath:applicationContext.xml}', classes = '{}', activeProfiles = '{}', contextLoader = 'org.springframework.test.context.support.DelegatingSmartContextLoader'].
+2014-07-01 19:37:05 [DEBUG] - [main] Loading ApplicationContext for merged context configuration [[MergedContextConfiguration@17fe1feb testClass = TestCache, locations = '{classpath:applicationContext.xml}', classes = '{}', activeProfiles = '{}', contextLoader = 'org.springframework.test.context.support.DelegatingSmartContextLoader']].
+2014-07-01 19:37:05 [DEBUG] - [main] Initializing new StandardEnvironment
+2014-07-01 19:37:05 [DEBUG] - [main] Adding [systemProperties] PropertySource with lowest search precedence
+2014-07-01 19:37:05 [DEBUG] - [main] Adding [systemEnvironment] PropertySource with lowest search precedence
+2014-07-01 19:37:05 [DEBUG] - [main] Initialized StandardEnvironment with PropertySources [systemProperties,systemEnvironment]
+2014-07-01 19:37:05 [DEBUG] - [main] Initializing new StandardEnvironment
+2014-07-01 19:37:05 [DEBUG] - [main] Adding [systemProperties] PropertySource with lowest search precedence
+2014-07-01 19:37:05 [DEBUG] - [main] Adding [systemEnvironment] PropertySource with lowest search precedence
+2014-07-01 19:37:05 [DEBUG] - [main] Initialized StandardEnvironment with PropertySources [systemProperties,systemEnvironment]
+2014-07-01 19:37:05 [INFO] - [main] Loading XML bean definitions from class path resource [applicationContext.xml]
+2014-07-01 19:37:05 [DEBUG] - [main] Using JAXP provider [com.sun.org.apache.xerces.internal.jaxp.DocumentBuilderFactoryImpl]
+2014-07-01 19:37:05 [DEBUG] - [main] Loading schema mappings from [META-INF/spring.schemas]
+2014-07-01 19:37:05 [DEBUG] - [main] Loaded schema mappings: {http://www.springframework.org/schema/util/spring-util.xsd=org/springframework/beans/factory/xml/spring-util-3.1.xsd, http://www.springframework.org/schema/task/spring-task.xsd=org/springframework/scheduling/config/spring-task-3.1.xsd, http://www.springframework.org/schema/beans/spring-beans-3.1.xsd=org/springframework/beans/factory/xml/spring-beans-3.1.xsd, http://www.springframework.org/schema/cache/spring-cache.xsd=org/springframework/cache/config/spring-cache-3.1.xsd, http://www.springframework.org/schema/aop/spring-aop-3.0.xsd=org/springframework/aop/config/spring-aop-3.0.xsd, http://www.springframework.org/schema/task/spring-task-3.1.xsd=org/springframework/scheduling/config/spring-task-3.1.xsd, http://www.springframework.org/schema/aop/spring-aop-2.0.xsd=org/springframework/aop/config/spring-aop-2.0.xsd, http://www.springframework.org/schema/tool/spring-tool-2.5.xsd=org/springframework/beans/factory/xml/spring-tool-2.5.xsd, http://www.springframework.org/schema/beans/spring-beans.xsd=org/springframework/beans/factory/xml/spring-beans-3.1.xsd, http://www.springframework.org/schema/jee/spring-jee-2.5.xsd=org/springframework/ejb/config/spring-jee-2.5.xsd, http://www.springframework.org/schema/tool/spring-tool-3.1.xsd=org/springframework/beans/factory/xml/spring-tool-3.1.xsd, http://www.springframework.org/schema/jee/spring-jee-3.1.xsd=org/springframework/ejb/config/spring-jee-3.1.xsd, http://www.springframework.org/schema/aop/spring-aop.xsd=org/springframework/aop/config/spring-aop-3.1.xsd, http://www.springframework.org/schema/beans/spring-beans-2.0.xsd=org/springframework/beans/factory/xml/spring-beans-2.0.xsd, http://www.springframework.org/schema/beans/spring-beans-3.0.xsd=org/springframework/beans/factory/xml/spring-beans-3.0.xsd, http://www.springframework.org/schema/task/spring-task-3.0.xsd=org/springframework/scheduling/config/spring-task-3.0.xsd, http://www.springframework.org/schema/context/spring-context-2.5.xsd=org/springframework/context/config/spring-context-2.5.xsd, http://www.springframework.org/schema/tool/spring-tool-3.0.xsd=org/springframework/beans/factory/xml/spring-tool-3.0.xsd, http://www.springframework.org/schema/tool/spring-tool-2.0.xsd=org/springframework/beans/factory/xml/spring-tool-2.0.xsd, http://www.springframework.org/schema/util/spring-util-2.5.xsd=org/springframework/beans/factory/xml/spring-util-2.5.xsd, http://www.springframework.org/schema/lang/spring-lang.xsd=org/springframework/scripting/config/spring-lang-3.1.xsd, http://www.springframework.org/schema/lang/spring-lang-2.5.xsd=org/springframework/scripting/config/spring-lang-2.5.xsd, http://www.springframework.org/schema/jee/spring-jee-3.0.xsd=org/springframework/ejb/config/spring-jee-3.0.xsd, http://www.springframework.org/schema/jee/spring-jee-2.0.xsd=org/springframework/ejb/config/spring-jee-2.0.xsd, http://www.springframework.org/schema/context/spring-context-3.1.xsd=org/springframework/context/config/spring-context-3.1.xsd, http://www.springframework.org/schema/util/spring-util-3.1.xsd=org/springframework/beans/factory/xml/spring-util-3.1.xsd, http://www.springframework.org/schema/lang/spring-lang-3.1.xsd=org/springframework/scripting/config/spring-lang-3.1.xsd, http://www.springframework.org/schema/cache/spring-cache-3.1.xsd=org/springframework/cache/config/spring-cache-3.1.xsd, http://www.springframework.org/schema/context/spring-context.xsd=org/springframework/context/config/spring-context-3.1.xsd, http://www.springframework.org/schema/jee/spring-jee.xsd=org/springframework/ejb/config/spring-jee-3.1.xsd, http://www.springframework.org/schema/aop/spring-aop-2.5.xsd=org/springframework/aop/config/spring-aop-2.5.xsd, http://www.springframework.org/schema/aop/spring-aop-3.1.xsd=org/springframework/aop/config/spring-aop-3.1.xsd, http://www.springframework.org/schema/context/spring-context-3.0.xsd=org/springframework/context/config/spring-context-3.0.xsd, http://www.springframework.org/schema/tool/spring-tool.xsd=org/springframework/beans/factory/xml/spring-tool-3.1.xsd, http://www.springframework.org/schema/util/spring-util-3.0.xsd=org/springframework/beans/factory/xml/spring-util-3.0.xsd, http://www.springframework.org/schema/lang/spring-lang-3.0.xsd=org/springframework/scripting/config/spring-lang-3.0.xsd, http://www.springframework.org/schema/util/spring-util-2.0.xsd=org/springframework/beans/factory/xml/spring-util-2.0.xsd, http://www.springframework.org/schema/lang/spring-lang-2.0.xsd=org/springframework/scripting/config/spring-lang-2.0.xsd, http://www.springframework.org/schema/beans/spring-beans-2.5.xsd=org/springframework/beans/factory/xml/spring-beans-2.5.xsd}
+2014-07-01 19:37:05 [DEBUG] - [main] Found XML schema [http://www.springframework.org/schema/beans/spring-beans-3.0.xsd] in classpath: org/springframework/beans/factory/xml/spring-beans-3.0.xsd
+2014-07-01 19:37:05 [DEBUG] - [main] Found XML schema [http://www.springframework.org/schema/aop/spring-aop-3.0.xsd] in classpath: org/springframework/aop/config/spring-aop-3.0.xsd
+2014-07-01 19:37:05 [DEBUG] - [main] Found XML schema [http://www.springframework.org/schema/tool/spring-tool-3.0.xsd] in classpath: org/springframework/beans/factory/xml/spring-tool-3.0.xsd
+2014-07-01 19:37:05 [DEBUG] - [main] Found XML schema [http://www.springframework.org/schema/context/spring-context-3.1.xsd] in classpath: org/springframework/context/config/spring-context-3.1.xsd
+2014-07-01 19:37:05 [DEBUG] - [main] Loading bean definitions
+2014-07-01 19:37:05 [DEBUG] - [main] Loaded NamespaceHandler mappings: {http://www.springframework.org/schema/p=org.springframework.beans.factory.xml.SimplePropertyNamespaceHandler, http://www.springframework.org/schema/util=org.springframework.beans.factory.xml.UtilNamespaceHandler, http://www.springframework.org/schema/jee=org.springframework.ejb.config.JeeNamespaceHandler, http://www.springframework.org/schema/aop=org.springframework.aop.config.AopNamespaceHandler, http://www.springframework.org/schema/cache=org.springframework.cache.config.CacheNamespaceHandler, http://www.springframework.org/schema/c=org.springframework.beans.factory.xml.SimpleConstructorNamespaceHandler, http://www.springframework.org/schema/task=org.springframework.scheduling.config.TaskNamespaceHandler, http://www.springframework.org/schema/lang=org.springframework.scripting.config.LangNamespaceHandler, http://www.springframework.org/schema/context=org.springframework.context.config.ContextNamespaceHandler}
+2014-07-01 19:37:05 [DEBUG] - [main] Looking for matching resources in directory tree [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/test-classes/com/ledong/middleware/cache]
+2014-07-01 19:37:05 [DEBUG] - [main] Searching directory [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/test-classes/com/ledong/middleware/cache] for files matching pattern [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/test-classes/com/ledong/middleware/cache/**/*.class]
+2014-07-01 19:37:05 [DEBUG] - [main] Searching directory [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/test-classes/com/ledong/middleware/cache/test] for files matching pattern [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/test-classes/com/ledong/middleware/cache/**/*.class]
+2014-07-01 19:37:05 [DEBUG] - [main] Looking for matching resources in directory tree [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache]
+2014-07-01 19:37:05 [DEBUG] - [main] Searching directory [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache] for files matching pattern [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/**/*.class]
+2014-07-01 19:37:05 [DEBUG] - [main] Searching directory [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/annotation] for files matching pattern [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/**/*.class]
+2014-07-01 19:37:05 [DEBUG] - [main] Searching directory [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/container] for files matching pattern [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/**/*.class]
+2014-07-01 19:37:05 [DEBUG] - [main] Searching directory [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/logger] for files matching pattern [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/**/*.class]
+2014-07-01 19:37:05 [DEBUG] - [main] Searching directory [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/logger/log4j] for files matching pattern [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/**/*.class]
+2014-07-01 19:37:05 [DEBUG] - [main] Searching directory [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/logger/slf4j] for files matching pattern [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/**/*.class]
+2014-07-01 19:37:05 [DEBUG] - [main] Resolved location pattern [classpath*:com/ledong/middleware/cache/**/*.class] to resources [file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/test-classes/com/ledong/middleware/cache/test/TestCache.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/annotation/LeCache.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/CacheConfigUtil.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/CachePoxy.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/container/CacheFactory.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/container/Container.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/container/EhcacheContainer.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/container/MemcacheContainer$1.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/container/MemcacheContainer$2.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/container/MemcacheContainer.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/logger/CacheLogger$Logger.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/logger/CacheLogger.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/logger/CacheLoggerFactory.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/logger/LeDongLogger.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/logger/Level.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/logger/log4j/Log4jAdpter.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/logger/log4j/Log4jLogger.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/logger/LoggerAdpter.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/logger/slf4j/Slf4jAdpter.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/logger/slf4j/Slf4jLogger.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/ParamProcessClass.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/StorageStrategy.class], file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/TestLeCacheAnn.class]]
+2014-07-01 19:37:05 [DEBUG] - [main] Identified candidate component class: file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/CachePoxy.class]
+2014-07-01 19:37:06 [DEBUG] - [main] Identified candidate component class: file [/Users/liaoyong/Project/java/taihe/ledong/Project/middleware/cache/cachepoxy/target/classes/com/ledong/middleware/cache/TestLeCacheAnn.class]
+2014-07-01 19:37:06 [DEBUG] - [main] Loaded 7 bean definitions from location pattern [classpath:applicationContext.xml]
+2014-07-01 19:37:06 [INFO] - [main] Refreshing org.springframework.context.support.GenericApplicationContext@4eedf3f6: startup date [Tue Jul 01 19:37:06 GMT+08:00 2014]; root of context hierarchy
+2014-07-01 19:37:06 [DEBUG] - [main] Bean factory for org.springframework.context.support.GenericApplicationContext@4eedf3f6: org.springframework.beans.factory.support.DefaultListableBeanFactory@44d6b059: defining beans [org.springframework.aop.config.internalAutoProxyCreator,cachePoxy,testLeCacheAnn,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor]; root of factory hierarchy
+2014-07-01 19:37:06 [DEBUG] - [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-07-01 19:37:06 [DEBUG] - [main] Creating instance of bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-07-01 19:37:06 [DEBUG] - [main] Eagerly caching bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor' to allow for resolving potential circular references
+2014-07-01 19:37:06 [DEBUG] - [main] Finished creating instance of bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-07-01 19:37:06 [DEBUG] - [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2014-07-01 19:37:06 [DEBUG] - [main] Creating instance of bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2014-07-01 19:37:06 [DEBUG] - [main] Eagerly caching bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor' to allow for resolving potential circular references
+2014-07-01 19:37:06 [DEBUG] - [main] Finished creating instance of bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2014-07-01 19:37:06 [DEBUG] - [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2014-07-01 19:37:06 [DEBUG] - [main] Creating instance of bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2014-07-01 19:37:06 [DEBUG] - [main] Eagerly caching bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor' to allow for resolving potential circular references
+2014-07-01 19:37:06 [DEBUG] - [main] Finished creating instance of bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2014-07-01 19:37:06 [DEBUG] - [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2014-07-01 19:37:06 [DEBUG] - [main] Creating instance of bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2014-07-01 19:37:06 [DEBUG] - [main] Eagerly caching bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor' to allow for resolving potential circular references
+2014-07-01 19:37:06 [DEBUG] - [main] Finished creating instance of bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2014-07-01 19:37:06 [DEBUG] - [main] Creating shared instance of singleton bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0'
+2014-07-01 19:37:06 [DEBUG] - [main] Creating instance of bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0'
+2014-07-01 19:37:06 [DEBUG] - [main] Eagerly caching bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0' to allow for resolving potential circular references
+2014-07-01 19:37:06 [DEBUG] - [main] Finished creating instance of bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0'
+2014-07-01 19:37:06 [DEBUG] - [main] Creating shared instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2014-07-01 19:37:06 [DEBUG] - [main] Creating instance of bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2014-07-01 19:37:06 [DEBUG] - [main] Eagerly caching bean 'org.springframework.aop.config.internalAutoProxyCreator' to allow for resolving potential circular references
+2014-07-01 19:37:06 [DEBUG] - [main] Finished creating instance of bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2014-07-01 19:37:06 [DEBUG] - [main] Unable to locate MessageSource with name 'messageSource': using default [org.springframework.context.support.DelegatingMessageSource@48e29820]
+2014-07-01 19:37:06 [DEBUG] - [main] Unable to locate ApplicationEventMulticaster with name 'applicationEventMulticaster': using default [org.springframework.context.event.SimpleApplicationEventMulticaster@747917a]
+2014-07-01 19:37:06 [INFO] - [main] Pre-instantiating singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@44d6b059: defining beans [org.springframework.aop.config.internalAutoProxyCreator,cachePoxy,testLeCacheAnn,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0]; root of factory hierarchy
+2014-07-01 19:37:06 [DEBUG] - [main] Returning cached instance of singleton bean 'org.springframework.aop.config.internalAutoProxyCreator'
+2014-07-01 19:37:06 [DEBUG] - [main] Creating shared instance of singleton bean 'cachePoxy'
+2014-07-01 19:37:06 [DEBUG] - [main] Creating instance of bean 'cachePoxy'
+2014-07-01 19:37:06 [INFO] - [main] using logger: com.ledong.middleware.cache.logger.log4j.Log4jAdpter
+2014-07-01 19:37:06 [DEBUG] - [main] Eagerly caching bean 'cachePoxy' to allow for resolving potential circular references
+2014-07-01 19:37:06 [DEBUG] - [main] Finished creating instance of bean 'cachePoxy'
+2014-07-01 19:37:06 [DEBUG] - [main] Creating shared instance of singleton bean 'testLeCacheAnn'
+2014-07-01 19:37:06 [DEBUG] - [main] Creating instance of bean 'testLeCacheAnn'
+2014-07-01 19:37:06 [DEBUG] - [main] Found AspectJ method: public java.lang.Object com.ledong.middleware.cache.CachePoxy.methodCachePoxy(org.aspectj.lang.ProceedingJoinPoint) throws java.lang.SecurityException,java.lang.NoSuchMethodException,javassist.NotFoundException
+2014-07-01 19:37:06 [DEBUG] - [main] Eagerly caching bean 'testLeCacheAnn' to allow for resolving potential circular references
+2014-07-01 19:37:06 [DEBUG] - [main] Creating implicit proxy for bean 'testLeCacheAnn' with 0 common interceptors and 2 specific interceptors
+2014-07-01 19:37:06 [DEBUG] - [main] Creating CGLIB2 proxy: target source is SingletonTargetSource for target object [com.ledong.middleware.cache.TestLeCacheAnn@1b5b8520]
+2014-07-01 19:37:06 [DEBUG] - [main] Unable to apply any optimisations to advised method: public java.lang.String com.ledong.middleware.cache.TestLeCacheAnn.getHello(java.lang.String,int)
+2014-07-01 19:37:06 [DEBUG] - [main] Found finalize() method - using NO_OVERRIDE
+2014-07-01 19:37:06 [DEBUG] - [main] Found 'equals' method: public boolean java.lang.Object.equals(java.lang.Object)
+2014-07-01 19:37:06 [DEBUG] - [main] Unable to apply any optimisations to advised method: public java.lang.String java.lang.Object.toString()
+2014-07-01 19:37:06 [DEBUG] - [main] Found 'hashCode' method: public native int java.lang.Object.hashCode()
+2014-07-01 19:37:06 [DEBUG] - [main] Unable to apply any optimisations to advised method: protected native java.lang.Object java.lang.Object.clone() throws java.lang.CloneNotSupportedException
+2014-07-01 19:37:06 [DEBUG] - [main] Method is declared on Advised interface: public abstract int org.springframework.aop.framework.Advised.indexOf(org.aopalliance.aop.Advice)
+2014-07-01 19:37:06 [DEBUG] - [main] Method is declared on Advised interface: public abstract int org.springframework.aop.framework.Advised.indexOf(org.springframework.aop.Advisor)
+2014-07-01 19:37:06 [DEBUG] - [main] Method is declared on Advised interface: public abstract boolean org.springframework.aop.framework.Advised.isFrozen()
+2014-07-01 19:37:06 [DEBUG] - [main] Method is declared on Advised interface: public abstract org.springframework.aop.TargetSource org.springframework.aop.framework.Advised.getTargetSource()
+2014-07-01 19:37:06 [DEBUG] - [main] Method is declared on Advised interface: public abstract void org.springframework.aop.framework.Advised.addAdvisor(org.springframework.aop.Advisor) throws org.springframework.aop.framework.AopConfigException
+2014-07-01 19:37:06 [DEBUG] - [main] Method is declared on Advised interface: public abstract void org.springframework.aop.framework.Advised.addAdvisor(int,org.springframework.aop.Advisor) throws org.springframework.aop.framework.AopConfigException
+2014-07-01 19:37:06 [DEBUG] - [main] Method is declared on Advised interface: public abstract void org.springframework.aop.framework.Advised.setTargetSource(org.springframework.aop.TargetSource)
+2014-07-01 19:37:06 [DEBUG] - [main] Method is declared on Advised interface: public abstract void org.springframework.aop.framework.Advised.setPreFiltered(boolean)
+2014-07-01 19:37:06 [DEBUG] - [main] Method is declared on Advised interface: public abstract boolean org.springframework.aop.framework.Advised.isProxyTargetClass()
+2014-07-01 19:37:06 [DEBUG] - [main] Method is declared on Advised interface: public abstract void org.springframework.aop.framework.Advised.setExposeProxy(boolean)
+2014-07-01 19:37:06 [DEBUG] - [main] Method is declared on Advised interface: public abstract boolean org.springframework.aop.framework.Advised.isExposeProxy()
+2014-07-01 19:37:06 [DEBUG] - [main] Method is declared on Advised interface: public abstract org.springframework.aop.Advisor[] org.springframework.aop.framework.Advised.getAdvisors()
+2014-07-01 19:37:06 [DEBUG] - [main] Method is declared on Advised interface: public abstract void org.springframework.aop.framework.Advised.addAdvice(org.aopalliance.aop.Advice) throws org.springframework.aop.framework.AopConfigException
+2014-07-01 19:37:06 [DEBUG] - [main] Method is declared on Advised interface: public abstract void org.springframework.aop.framework.Advised.addAdvice(int,org.aopalliance.aop.Advice) throws org.springframework.aop.framework.AopConfigException
+2014-07-01 19:37:06 [DEBUG] - [main] Method is declared on Advised interface: public abstract boolean org.springframework.aop.framework.Advised.isPreFiltered()
+2014-07-01 19:37:06 [DEBUG] - [main] Method is declared on Advised interface: public abstract java.lang.Class[] org.springframework.aop.framework.Advised.getProxiedInterfaces()
+2014-07-01 19:37:06 [DEBUG] - [main] Method is declared on Advised interface: public abstract boolean org.springframework.aop.framework.Advised.isInterfaceProxied(java.lang.Class)
+2014-07-01 19:37:06 [DEBUG] - [main] Method is declared on Advised interface: public abstract void org.springframework.aop.framework.Advised.removeAdvisor(int) throws org.springframework.aop.framework.AopConfigException
+2014-07-01 19:37:06 [DEBUG] - [main] Method is declared on Advised interface: public abstract boolean org.springframework.aop.framework.Advised.removeAdvisor(org.springframework.aop.Advisor)
+2014-07-01 19:37:06 [DEBUG] - [main] Method is declared on Advised interface: public abstract boolean org.springframework.aop.framework.Advised.replaceAdvisor(org.springframework.aop.Advisor,org.springframework.aop.Advisor) throws org.springframework.aop.framework.AopConfigException
+2014-07-01 19:37:06 [DEBUG] - [main] Method is declared on Advised interface: public abstract boolean org.springframework.aop.framework.Advised.removeAdvice(org.aopalliance.aop.Advice)
+2014-07-01 19:37:06 [DEBUG] - [main] Method is declared on Advised interface: public abstract java.lang.String org.springframework.aop.framework.Advised.toProxyConfigString()
+2014-07-01 19:37:06 [DEBUG] - [main] Method is declared on Advised interface: public abstract java.lang.Class org.springframework.aop.TargetClassAware.getTargetClass()
+2014-07-01 19:37:06 [DEBUG] - [main] Finished creating instance of bean 'testLeCacheAnn'
+2014-07-01 19:37:06 [DEBUG] - [main] Returning cached instance of singleton bean 'org.springframework.context.annotation.internalConfigurationAnnotationProcessor'
+2014-07-01 19:37:06 [DEBUG] - [main] Returning cached instance of singleton bean 'org.springframework.context.annotation.internalAutowiredAnnotationProcessor'
+2014-07-01 19:37:06 [DEBUG] - [main] Returning cached instance of singleton bean 'org.springframework.context.annotation.internalRequiredAnnotationProcessor'
+2014-07-01 19:37:06 [DEBUG] - [main] Returning cached instance of singleton bean 'org.springframework.context.annotation.internalCommonAnnotationProcessor'
+2014-07-01 19:37:06 [DEBUG] - [main] Returning cached instance of singleton bean 'org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0'
+2014-07-01 19:37:06 [DEBUG] - [main] Unable to locate LifecycleProcessor with name 'lifecycleProcessor': using default [org.springframework.context.support.DefaultLifecycleProcessor@4ab9b8d0]
+2014-07-01 19:37:06 [DEBUG] - [main] Returning cached instance of singleton bean 'lifecycleProcessor'
+2014-07-01 19:37:06 [DEBUG] - [main] Storing ApplicationContext for test class [class com.ledong.middleware.cache.test.TestCache] in cache under key [[MergedContextConfiguration@17fe1feb testClass = TestCache, locations = '{classpath:applicationContext.xml}', classes = '{}', activeProfiles = '{}', contextLoader = 'org.springframework.test.context.support.DelegatingSmartContextLoader']].
+2014-07-01 19:37:06 [DEBUG] - [main] Found injected element on class [com.ledong.middleware.cache.test.TestCache]: AutowiredFieldElement for com.ledong.middleware.cache.TestLeCacheAnn com.ledong.middleware.cache.test.TestCache.testLeCacheAnn
+2014-07-01 19:37:06 [DEBUG] - [main] Processing injected method of bean 'com.ledong.middleware.cache.test.TestCache': AutowiredFieldElement for com.ledong.middleware.cache.TestLeCacheAnn com.ledong.middleware.cache.test.TestCache.testLeCacheAnn
+2014-07-01 19:37:06 [DEBUG] - [main] Returning cached instance of singleton bean 'testLeCacheAnn'
+2014-07-01 19:37:06 [DEBUG] - [main] Autowiring by type from bean name 'com.ledong.middleware.cache.test.TestCache' to bean named 'testLeCacheAnn'
+2014-07-01 19:37:06 [DEBUG] - [main] Returning cached instance of singleton bean 'cachePoxy'
+2014-07-01 19:37:06 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:06 [WARN] - [main] No configuration found. Configuring ehcache from ehcache-failsafe.xml  found in the classpath: jar:file:/Users/liaoyong/.m2/repository/net/sf/ehcache/ehcache/2.8.3/ehcache-2.8.3.jar!/ehcache-failsafe.xml
+2014-07-01 19:37:06 [DEBUG] - [main] Configuring ehcache from URL: jar:file:/Users/liaoyong/.m2/repository/net/sf/ehcache/ehcache/2.8.3/ehcache-2.8.3.jar!/ehcache-failsafe.xml
+2014-07-01 19:37:06 [DEBUG] - [main] Configuring ehcache from InputStream
+2014-07-01 19:37:06 [DEBUG] - [main] Ignoring ehcache attribute xmlns:xsi
+2014-07-01 19:37:06 [DEBUG] - [main] Ignoring ehcache attribute xsi:noNamespaceSchemaLocation
+2014-07-01 19:37:06 [DEBUG] - [main] Disk Store Path: /var/folders/54/83zvtcbj17l1vjdmbt62fmh40000gn/T/
+2014-07-01 19:37:06 [DEBUG] - [main] Creating new CacheManager with default config
+2014-07-01 19:37:07 [DEBUG] - [main] propertiesString is null.
+2014-07-01 19:37:07 [DEBUG] - [main] No CacheManagerEventListenerFactory class specified. Skipping...
+2014-07-01 19:37:07 [DEBUG] - [main] No BootstrapCacheLoaderFactory class specified. Skipping...
+2014-07-01 19:37:07 [DEBUG] - [main] CacheWriter factory not configured. Skipping...
+2014-07-01 19:37:07 [DEBUG] - [main] No CacheExceptionHandlerFactory class specified. Skipping...
+2014-07-01 19:37:07 [INFO] - [main]  [LeCache] lecache加载memcahe配置，memcached.url=192.168.5.101:11211,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ledong-memcache-containe:memcache 容器初始化成功.,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main] No BootstrapCacheLoaderFactory class specified. Skipping...
+2014-07-01 19:37:07 [DEBUG] - [main] CacheWriter factory not configured. Skipping...
+2014-07-01 19:37:07 [DEBUG] - [main] Using diskstore path /var/folders/54/83zvtcbj17l1vjdmbt62fmh40000gn/T
+2014-07-01 19:37:07 [DEBUG] - [main] Holding exclusive lock on /var/folders/54/83zvtcbj17l1vjdmbt62fmh40000gn/T/.ehcache-diskstore.lock
+2014-07-01 19:37:07 [DEBUG] - [main] Failed to delete file ledong_ehcache_cachepoxy_10.index
+2014-07-01 19:37:07 [DEBUG] - [main] Matching data file missing (or empty) for index file. Deleting index file /var/folders/54/83zvtcbj17l1vjdmbt62fmh40000gn/T/ledong_ehcache_cachepoxy_10.index
+2014-07-01 19:37:07 [DEBUG] - [main] Failed to delete file ledong_ehcache_cachepoxy_10.index
+2014-07-01 19:37:07 [DEBUG] - [main] Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE
+2014-07-01 19:37:07 [DEBUG] - [main] Mocking Pass-Through Statistic: LOCAL_OFFHEAP_SIZE_BYTES
+2014-07-01 19:37:07 [DEBUG] - [main] Mocking Pass-Through Statistic: WRITER_QUEUE_LENGTH
+2014-07-01 19:37:07 [DEBUG] - [main] Mocking Pass-Through Statistic: REMOTE_SIZE
+2014-07-01 19:37:07 [DEBUG] - [main] Mocking Pass-Through Statistic: LAST_REJOIN_TIMESTAMP
+2014-07-01 19:37:07 [DEBUG] - [main] Mocking Operation Statistic: OFFHEAP_GET
+2014-07-01 19:37:07 [DEBUG] - [main] Mocking Operation Statistic: OFFHEAP_PUT
+2014-07-01 19:37:07 [DEBUG] - [main] Mocking Operation Statistic: OFFHEAP_REMOVE
+2014-07-01 19:37:07 [DEBUG] - [main] Mocking Operation Statistic: XA_COMMIT
+2014-07-01 19:37:07 [DEBUG] - [main] Mocking Operation Statistic: XA_ROLLBACK
+2014-07-01 19:37:07 [DEBUG] - [main] Mocking Operation Statistic: XA_RECOVERY
+2014-07-01 19:37:07 [DEBUG] - [main] Mocking Operation Statistic: CLUSTER_EVENT
+2014-07-01 19:37:07 [DEBUG] - [main] Mocking Operation Statistic: NONSTOP
+2014-07-01 19:37:07 [DEBUG] - [main] Initialised cache: ledong_ehcache_cachepoxy_10
+2014-07-01 19:37:07 [DEBUG] - [main] put added 0 on heap
+2014-07-01 19:37:07 [DEBUG] - [ledong_ehcache_cachepoxy_10.data] fault removed 0 from heap
+2014-07-01 19:37:07 [DEBUG] - [ledong_ehcache_cachepoxy_10.data] fault added 0 on disk
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] ִ代理getHello,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main]  [LeCache] 命中缓存:ledong-cache:getHello_liaoy_12,  version: 1.0.0
+2014-07-01 19:37:07 [DEBUG] - [main] After test method: context [[TestContext@3b6f0be8 testClass = TestCache, testInstance = com.ledong.middleware.cache.test.TestCache@7776cad3, testMethod = testAspect@TestCache, testException = [null], mergedContextConfiguration = [MergedContextConfiguration@17fe1feb testClass = TestCache, locations = '{classpath:applicationContext.xml}', classes = '{}', activeProfiles = '{}', contextLoader = 'org.springframework.test.context.support.DelegatingSmartContextLoader']]], class dirties context [false], class mode [null], method dirties context [false].
+2014-07-01 19:37:07 [DEBUG] - [main] After test class: context [[TestContext@3b6f0be8 testClass = TestCache, testInstance = [null], testMethod = [null], testException = [null], mergedContextConfiguration = [MergedContextConfiguration@17fe1feb testClass = TestCache, locations = '{classpath:applicationContext.xml}', classes = '{}', activeProfiles = '{}', contextLoader = 'org.springframework.test.context.support.DelegatingSmartContextLoader']]], dirtiesContext [false].
+2014-07-01 19:37:07 [INFO] - [Thread-2] Closing org.springframework.context.support.GenericApplicationContext@4eedf3f6: startup date [Tue Jul 01 19:37:06 GMT+08:00 2014]; root of context hierarchy
+2014-07-01 19:37:07 [DEBUG] - [Thread-2] Returning cached instance of singleton bean 'lifecycleProcessor'
+2014-07-01 19:37:07 [INFO] - [Thread-2] Destroying singletons in org.springframework.beans.factory.support.DefaultListableBeanFactory@44d6b059: defining beans [org.springframework.aop.config.internalAutoProxyCreator,cachePoxy,testLeCacheAnn,org.springframework.context.annotation.internalConfigurationAnnotationProcessor,org.springframework.context.annotation.internalAutowiredAnnotationProcessor,org.springframework.context.annotation.internalRequiredAnnotationProcessor,org.springframework.context.annotation.internalCommonAnnotationProcessor,org.springframework.context.annotation.ConfigurationClassPostProcessor$ImportAwareBeanPostProcessor#0]; root of factory hierarchy
+2014-07-01 19:37:07 [DEBUG] - [Thread-2] Retrieved dependent beans for bean 'testLeCacheAnn': [com.ledong.middleware.cache.test.TestCache]
